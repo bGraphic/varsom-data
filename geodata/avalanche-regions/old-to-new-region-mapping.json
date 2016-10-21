@@ -3,7 +3,6 @@
     {
       "name": "Sunnmøre",
       "regionId": 19,
-      "sortOrder": 17,
       "newRegions": [
         {
           "id": 3024,
@@ -14,7 +13,6 @@
     {
       "name": "Narvik",
       "regionId": 14,
-      "sortOrder": 10,
       "newRegions": [
         {
           "id": 3015,
@@ -25,7 +23,6 @@
     {
       "name": "Hallingdal",
       "regionId": 32,
-      "sortOrder": 22,
       "newRegions": [
         {
           "id": 3032,
@@ -36,7 +33,6 @@
     {
       "name": "Senja",
       "regionId": 10,
-      "sortOrder": 6,
       "newRegions": [
         {
           "id": 3012,
@@ -47,7 +43,6 @@
     {
       "name": "Alta",
       "regionId": 6,
-      "sortOrder": 2,
       "newRegions": [
         {
           "id": 3007,
@@ -58,7 +53,6 @@
     {
       "name": "Rauland",
       "regionId": 28,
-      "sortOrder": 24,
       "newRegions": [
         {
           "id": 3035,
@@ -69,7 +63,6 @@
     {
       "name": "Bardu",
       "regionId": 12,
-      "sortOrder": 9,
       "newRegions": [
         {
           "id": 3013,
@@ -84,7 +77,6 @@
     {
       "name": "Tromsø",
       "regionId": 8,
-      "sortOrder": 4,
       "newRegions": [
         {
           "id": 3011,
@@ -95,7 +87,6 @@
     {
       "name": "Romsdal",
       "regionId": 18,
-      "sortOrder": 16,
       "newRegions": [
         {
           "id": 3023,
@@ -106,7 +97,6 @@
     {
       "name": "Kåfjord",
       "regionId": 7,
-      "sortOrder": 3,
       "newRegions": [
         {
           "id": 3009,
@@ -117,7 +107,6 @@
     {
       "name": "Vesterålen",
       "regionId": 15,
-      "sortOrder": 11,
       "newRegions": [
         {
           "id": 3014,
@@ -132,7 +121,6 @@
     {
       "name": "Salten",
       "regionId": 33,
-      "sortOrder": 13,
       "newRegions": [
         {
           "id": 3016,
@@ -143,7 +131,6 @@
     {
       "name": "Fjordane",
       "regionId": 21,
-      "sortOrder": 18,
       "newRegions": [
         {
           "id": 3027,
@@ -158,7 +145,6 @@
     {
       "name": "Lyngsalpan",
       "regionId": 11,
-      "sortOrder": 7,
       "newRegions": [
         {
           "id": 3010,
@@ -169,7 +155,6 @@
     {
       "name": "Røldal",
       "regionId": 27,
-      "sortOrder": 23,
       "newRegions": [
         {
           "id": 3034,
@@ -180,7 +165,6 @@
     {
       "name": "Lofoten",
       "regionId": 16,
-      "sortOrder": 12,
       "newRegions": [
         {
           "id": 3014,
@@ -191,7 +175,6 @@
     {
       "name": "Trollheimen",
       "regionId": 17,
-      "sortOrder": 15,
       "newRegions": [
         {
           "id": 3022,
@@ -202,7 +185,6 @@
     {
       "name": "Svartisen",
       "regionId": 31,
-      "sortOrder": 14,
       "newRegions": [
         {
           "id": 3017,
@@ -213,7 +195,6 @@
     {
       "name": "Voss",
       "regionId": 24,
-      "sortOrder": 21,
       "newRegions": [
         {
           "id": 3031,
@@ -224,7 +205,6 @@
     {
       "name": "Jotunheimen",
       "regionId": 23,
-      "sortOrder": 20,
       "newRegions": [
         {
           "id": 3028,
@@ -235,7 +215,6 @@
     {
       "name": "Nordenskioldland",
       "regionId": 30,
-      "sortOrder": 1,
       "newRegions": [
         {
           "id": 3003,
@@ -246,7 +225,6 @@
     {
       "name": "Balsfjord",
       "regionId": 9,
-      "sortOrder": 5,
       "newRegions": [
         {
           "id": 3010,
@@ -261,7 +239,6 @@
     {
       "name": "Sogn",
       "regionId": 22,
-      "sortOrder": 19,
       "newRegions": [
         {
           "id": 3029,
@@ -272,7 +249,6 @@
     {
       "name": "Tamokdalen",
       "regionId": 29,
-      "sortOrder": 8,
       "newRegions": [
         {
           "id": 3013,
