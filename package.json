@@ -1,0 +1,21 @@
+{
+  "name": "varsom-data",
+  "version": "1.0.0",
+  "description": "varsom-data ===========",
+  "scripts": {
+    "simplify": "node simplify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bGraphic/varsom-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bGraphic/varsom-data/issues"
+  },
+  "homepage": "https://github.com/bGraphic/varsom-data#readme",
+  "dependencies": {
+    "simplify-geojson": "^1.0.3"
+  }
+}
